@@ -2,7 +2,7 @@
 - 🫱🏻‍🫲🏻 I’m looking to collaborate on my assigments and general mistakes
 - 🌱 I’m currently learning r programing and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me via LinkedIn
 
 <!---
 Emorcan/Emorcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
