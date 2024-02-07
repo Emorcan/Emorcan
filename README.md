@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emorcan
 - 🫱🏻‍🫲🏻 I’m looking to collaborate on my assigments and general mistakes
-- 🌱 I’m currently learning r programing and Python
+- 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via LinkedIn
 
