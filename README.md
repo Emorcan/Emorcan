@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emircan</h1>
 - 🌱 I’m currently learning **R and Python**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ersan-emircan-kula-/**
+- 📫 How to reach me kulaersanemircan@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
