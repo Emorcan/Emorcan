@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://tenor.com/tr/view/ataturk-turkiye-ataturkiye-türkiye-mustafa-kemal-paşa-gif-14301299"  />
-</div>
 
 ###
 
