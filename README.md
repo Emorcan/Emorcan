@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/tr/view/ataturk-mustafa-kemal-military-soldier-gif-12248775"  />
+  <img height="150" src="https://tenor.com/tr/view/ataturk-turkiye-ataturkiye-türkiye-mustafa-kemal-paşa-gif-14301299"  />
 </div>
 
 ###
